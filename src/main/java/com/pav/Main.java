@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String arg[]){
 
-        System.out.print("--New Project-eeee-");
+        System.out.print("--New Project-eeeeooo-");
     }
 
 }
